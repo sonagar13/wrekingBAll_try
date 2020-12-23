@@ -4,7 +4,7 @@ class Rope{
                 bodyA: bodyA,
                 pointB: pointB,
                 stiffness: 1.5,
-                length:500,
+                length:400,
 
 
 

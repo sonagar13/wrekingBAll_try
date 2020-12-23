@@ -83,7 +83,8 @@ function setup() {
 
   
 
-  ball = new Ball(200,200,80,80);
+  ball = new Ball(500,200,80,80);
+  //rope = new Rope(ball.body,{x:500,y:0});
   rope = new Rope(ball.body,{x:500,y:0});
   
 
